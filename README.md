@@ -49,10 +49,8 @@ Este repositorio contiene el desarrollo de un proyecto de análisis de datos y m
 
 ## 📂 Estructura del Proyecto
 
--  ├── titanic.csv
-- ├── Titanic_EDA.ipynb # Análisis exploratorio de datos
-- ├── Titanic_LogisticModel.ipynb # Entrenamiento y evaluación del modelo
-- ├── gradio_interface.py # Interfaz interactiva para predicciones
+- ├── titanic.csv
+- ├── Titanic_LogisticModel.ipynb # EDA, Entrenamiento, evaluación del modelo E Interfaz interactiva
 - ├── README.md
 
 ---
